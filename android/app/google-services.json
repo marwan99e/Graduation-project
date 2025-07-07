@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785338801749",
+    "project_id": "evcharge-4493b",
+    "storage_bucket": "evcharge-4493b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785338801749:android:bdfa786ecd27a02a28fedc",
+        "android_client_info": {
+          "package_name": "com.example.evcharge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ADG3g3-RAugU3XhuYh8L9Gs799UNZwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
